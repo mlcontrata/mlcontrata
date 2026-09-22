@@ -23,8 +23,8 @@
 ### 💫 About Me
 
 ```yaml
-name: Mark Louie Contrata
-degree: Bachelor of Science in Information Systems (BSIS)
+Name: Mark Louie Contrata
+Degree: Bachelor of Science in Information Systems (BSIS)
 passions:
   - Enterprise Systems & Web Application Development
   - Database Design & Management (SQL / MySQL)
@@ -91,7 +91,6 @@ motto: "Transforming complex problems into elegant, efficient digital solutions.
 | Project Name | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
 | 🛠️ **Aztek Care System** | Comprehensive web platform for **Aztek Computer Center Isulan** featuring live ticket repair tracking, diagnostics management, self-service kiosk, and customer portals. | PHP, Tailwind CSS, JavaScript, MySQL | [🌐 Live Demo](https://aztekaresystem.page.gd) • [💻 GitHub](https://github.com/mlcontrata) |
-| 🏬 **SPA & Wellness Transaction System** | Real-time appointment scheduling, client revenue analytics, and transaction record tracking. | HTML5, CSS3, JavaScript | [💻 GitHub](https://github.com/mlcontrata) |
 | ☕ **Diamond A's Cafe Management System** | Complete POS, stock inventory control, and sales reporting solution for enterprise operations. | Web / SQL / Systems Analysis | [💻 GitHub](https://github.com/mlcontrata) |
 | 📊 **Enterprise Business Architecture** | Complete system architecture blueprints, Data Flow Diagrams (DFD), and BPMN process models. | MS Visio, BPMN | [💻 GitHub](https://github.com/mlcontrata) |
 
