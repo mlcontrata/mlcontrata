@@ -5,7 +5,7 @@
 
   <!-- Typing SVG Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Information+Systems+Specialist;Full-Stack+Web+Developer;Systems+Analyst+%26+Designer;Database+%26+Architecture+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Information+Systems+Specialist;Full-Stack+Web+Developer;Systems+Analyst+%26+Designer;UI%2FUX+Wireframe+%26+Prototype+Designer;Database+%26+Architecture+Enthusiast" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -27,17 +27,18 @@ Name: Mark Louie Contrata
 Degree: Bachelor of Science in Information Systems (BSIS)
 passions:
   - Enterprise Systems & Web Application Development
+  - UI/UX Design & Interactive Wireframe Prototyping (Figma)
   - Database Design & Management (SQL / MySQL)
   - System Architecture & Business Process Modeling (BPMN / DFD)
 learning_focus: Full-Stack Modern Web Frameworks & Cloud Services
 motto: "Transforming complex problems into elegant, efficient digital solutions."
 ```
 
-- 🔭 I’m currently working on: **[Aztek Care System](https://aztekaresystem.page.gd)** (Computer Center Repair, Diagnostics & Tracking System)
+- 🔭 I’m currently working on: **[Aztek Care System](https://aztekaresystem.page.gd)** (Diagnostics & Repair Management System) and **[KPMMS UI/UX Wireframes](https://www.figma.com/design/n3iNSbqn8RY3R0e2X0D1cI/KPMMS-wireframe?node-id=0-1&p=f&t=G6TOx5Hgbf0LaxLU-0)**
 - 🎓 Studied / Major: **BS Information Systems**
-- 🌱 I’m continually sharpening my skills in: **Modern JavaScript, PHP / CodeIgniter, Tailwind CSS, and Cloud Deployment**
-- 💼 Open for: **Junior Developer, Systems Analyst, and IT Specialist roles**
-- ⚡ Fun fact: **I enjoy turning real-world business workflows into sleek system architectures and interactive apps!**
+- 🌱 I’m continually sharpening my skills in: **Modern JavaScript, PHP / CodeIgniter, Figma UI/UX, and Cloud Deployment**
+- 💼 Open for: **Junior Developer, Systems Analyst, and UI/UX & IT Specialist roles**
+- ⚡ Fun fact: **I enjoy turning real-world business workflows into sleek system architectures, interactive wireframes, and live web apps!**
 
 ---
 
@@ -60,7 +61,8 @@ motto: "Transforming complex problems into elegant, efficient digital solutions.
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-#### 🎨 Design, Architecture & Productivity Tools
+#### 🎨 UI/UX Design, Architecture & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -90,7 +92,8 @@ motto: "Transforming complex problems into elegant, efficient digital solutions.
 
 | Project Name | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
-| 🛠️ **Aztek Care System** | Comprehensive web platform for **Aztek Computer Center Isulan** featuring live ticket repair tracking, diagnostics management, self-service kiosk, and customer portals. | PHP, Tailwind CSS, JavaScript, MySQL | [🌐 Live Demo](https://aztekaresystem.page.gd) • [💻 GitHub](https://github.com/mlcontrata) |
+| 🛠️ **Aztek Care System** | Full-scale web platform for **Aztek Computer Center Isulan** with live repair tracking, diagnostic management, self-service kiosk, and customer portals. | PHP, Tailwind CSS, JavaScript, MySQL | [🌐 Live Demo](https://aztekaresystem.page.gd) • [💻 GitHub](https://github.com/mlcontrata) |
+| 🎨 **KPMMS Wireframe & UI/UX Design** | Comprehensive user interface layouts, screen workflows, and design mockups created for the KPMMS system. | Figma, UI/UX Design, Prototyping | [🎨 View in Figma](https://www.figma.com/design/n3iNSbqn8RY3R0e2X0D1cI/KPMMS-wireframe?node-id=0-1&p=f&t=G6TOx5Hgbf0LaxLU-0) |
 | ☕ **Diamond A's Cafe Management System** | Complete POS, stock inventory control, and sales reporting solution for enterprise operations. | Web / SQL / Systems Analysis | [💻 GitHub](https://github.com/mlcontrata) |
 | 📊 **Enterprise Business Architecture** | Complete system architecture blueprints, Data Flow Diagrams (DFD), and BPMN process models. | MS Visio, BPMN | [💻 GitHub](https://github.com/mlcontrata) |
 
@@ -101,6 +104,7 @@ motto: "Transforming complex problems into elegant, efficient digital solutions.
 <div align="center">
 
 [![Live Project](https://img.shields.io/badge/Live_Project-Aztek_Care_System-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://aztekaresystem.page.gd)
+[![Figma Design](https://img.shields.io/badge/Figma-KPMMS_Wireframe-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/n3iNSbqn8RY3R0e2X0D1cI/KPMMS-wireframe?node-id=0-1&p=f&t=G6TOx5Hgbf0LaxLU-0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mlcontrata)
