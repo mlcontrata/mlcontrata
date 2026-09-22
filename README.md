@@ -105,8 +105,8 @@ motto: "Transforming complex problems into elegant, efficient digital solutions.
 
 [![Live Project](https://img.shields.io/badge/Live_Project-Aztek_Care_System-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://aztekaresystem.page.gd)
 [![Figma Design](https://img.shields.io/badge/Figma-KPMMS_Wireframe-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/n3iNSbqn8RY3R0e2X0D1cI/KPMMS-wireframe?node-id=0-1&p=f&t=G6TOx5Hgbf0LaxLU-0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marklouiecontrata)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marklouiegcontrata@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mlcontrata)
 
 </div>
