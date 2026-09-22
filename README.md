@@ -33,9 +33,9 @@ learning_focus: Full-Stack Modern Web Frameworks & Cloud Services
 motto: "Transforming complex problems into elegant, efficient digital solutions."
 ```
 
-- 🔭 I’m currently working on: **Web-based Management Systems & CRM applications**
+- 🔭 I’m currently working on: **[Aztek Care System](https://aztekaresystem.page.gd)** (Computer Center Repair, Diagnostics & Tracking System)
 - 🎓 Studied / Major: **BS Information Systems**
-- 🌱 I’m continually sharpening my skills in: **Modern JavaScript, Full-Stack Development, and Cloud Deployment**
+- 🌱 I’m continually sharpening my skills in: **Modern JavaScript, PHP / CodeIgniter, Tailwind CSS, and Cloud Deployment**
 - 💼 Open for: **Junior Developer, Systems Analyst, and IT Specialist roles**
 - ⚡ Fun fact: **I enjoy turning real-world business workflows into sleek system architectures and interactive apps!**
 
@@ -47,14 +47,16 @@ motto: "Transforming complex problems into elegant, efficient digital solutions.
 
 #### 💻 Programming & Query Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-#### 🗄️ Databases & Backend
+#### 🗄️ Databases & Backend Frameworks
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
@@ -86,11 +88,12 @@ motto: "Transforming complex problems into elegant, efficient digital solutions.
 
 ### 🚀 Featured Projects
 
-| Project Name | Description | Tech Stack | Link |
+| Project Name | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
-| 🏬 **SPA & Wellness Transaction System** | Real-time appointment tracking, client revenue metrics, and booking transaction manager. | HTML, CSS, JavaScript | [View Repo](https://github.com/mlcontrata) |
-| ☕ **Diamond A's Cafe Management System** | Comprehensive POS, inventory management, and business report tracking solution. | Web / SQL / Systems Analysis | [View Repo](https://github.com/mlcontrata) |
-| 📊 **Enterprise Business Process Architecture** | Architectural diagrams, DFDs, and system design specifications for enterprise platforms. | MS Visio, BPMN | [View Repo](https://github.com/mlcontrata) |
+| 🛠️ **Aztek Care System** | Comprehensive web platform for **Aztek Computer Center Isulan** featuring live ticket repair tracking, diagnostics management, self-service kiosk, and customer portals. | PHP, Tailwind CSS, JavaScript, MySQL | [🌐 Live Demo](https://aztekaresystem.page.gd) • [💻 GitHub](https://github.com/mlcontrata) |
+| 🏬 **SPA & Wellness Transaction System** | Real-time appointment scheduling, client revenue analytics, and transaction record tracking. | HTML5, CSS3, JavaScript | [💻 GitHub](https://github.com/mlcontrata) |
+| ☕ **Diamond A's Cafe Management System** | Complete POS, stock inventory control, and sales reporting solution for enterprise operations. | Web / SQL / Systems Analysis | [💻 GitHub](https://github.com/mlcontrata) |
+| 📊 **Enterprise Business Architecture** | Complete system architecture blueprints, Data Flow Diagrams (DFD), and BPMN process models. | MS Visio, BPMN | [💻 GitHub](https://github.com/mlcontrata) |
 
 ---
 
@@ -98,6 +101,7 @@ motto: "Transforming complex problems into elegant, efficient digital solutions.
 
 <div align="center">
 
+[![Live Project](https://img.shields.io/badge/Live_Project-Aztek_Care_System-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://aztekaresystem.page.gd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mlcontrata)
